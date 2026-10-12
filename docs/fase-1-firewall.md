@@ -128,8 +128,8 @@ Con el host en los 3 segmentos a la vez, el tráfico iría directo sin pasar por
 
 ## 7. Próximos pasos (Fase 2)
 
-- [ ] Windows Server 2022 + Active Directory (LAN Corp)
-- [ ] Ubuntu Server 24.04 + Wazuh (Red SOC)
+- [ ] Windows Server 2025 + Active Directory (LAN Corp)
+- [ ] Ubuntu Server 26.04 + Wazuh (Red SOC)
 - [ ] Windows 10 Enterprise como víctima (LAN Corp)
 - [ ] Kali Linux como atacante (Red Team)
 - [ ] Reservas Kea con hostname para cada servidor
