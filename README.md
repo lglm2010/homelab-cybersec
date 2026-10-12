@@ -5,7 +5,7 @@ De la teoría (Network+, Security+) a la práctica demostrable.
 
 ## Arquitectura
 
-Mini-empresa simulada con 3 segmentos aislados detrás de un firewall virtual (pfSense):
+Mini-empresa simulada con 3 segmentos aislados detrás de un firewall virtual (OPNsense):
 
 | Segmento | Red | Función |
 |---|---|---|
